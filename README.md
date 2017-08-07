@@ -1,15 +1,15 @@
 Basic_Sample_Project_Rxjava
 
 
-Before creating your first observable, What is Reactive Programming ?
-+---------------------------------+
+Before creating your first observable, What is Reactive Programming ? \n
++---------------------------------+ \n
 int a = 2;
 int b = 3;
 int c = a * b; // c is 6
 
 a = 10;
-// c is still 6
-+---------------------------------+
+// c is still 6 \n
++---------------------------------+ \n
 
 reactive programming is all about responding to value changes.
 RxJava makes use of the Observer pattern.
