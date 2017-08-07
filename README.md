@@ -1,7 +1,12 @@
 <html>
-Basic_Sample_Project_Rxjava
 
-
+<pre>
+    <div class="container">
+        <div class="block two first">
+            <h2>Basic_Sample_Project_Rxjava
+</h2>
+            <div class="wrap">
+      
 Before creating your first observable, What is Reactive Programming ? \n
 +---------------------------------+ \n
 int a = 2;
@@ -20,4 +25,8 @@ In the Observer pattern, We have objects that implement two key RxJava interface
 
 When an Observable changes state, all Observer objects subscribed to it are notified
 Among the methods in the Observable interface is subscribe(), which an Observer will call to begin the subscription.
+            </div>
+        </div>
+    </div>
+</pre>
 </html>
