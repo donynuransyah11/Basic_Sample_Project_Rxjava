@@ -1,3 +1,4 @@
+<html>
 Basic_Sample_Project_Rxjava
 
 
@@ -19,3 +20,4 @@ In the Observer pattern, We have objects that implement two key RxJava interface
 
 When an Observable changes state, all Observer objects subscribed to it are notified
 Among the methods in the Observable interface is subscribe(), which an Observer will call to begin the subscription.
+</html>
